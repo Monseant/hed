@@ -1,0 +1,39 @@
+.principal
+{
+    background-color: antiquewhite;
+    padding: 35px;
+    text-align: center;
+}
+
+.titulo
+{
+    color: rgb(203, 21, 85);
+        text-align: center;
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 50px;
+}
+
+
+.txt
+{color: rgb(41, 11, 86);
+        text-align: center;
+        padding: 35px;
+        border-radius: 15px;
+        font-size: 30px;
+
+
+}
+.f1 {
+    margin-top: 5px;
+    width: 500px;
+    border-radius: 15px;
+
+}
+.imagen
+{
+    margin-top: 5px;
+    width: 500px;
+    border-radius: 15px;
+
+}
